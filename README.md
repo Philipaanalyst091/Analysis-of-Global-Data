@@ -3,12 +3,19 @@ This dashboard provides a global analysis, focusing on key metrics like economic
 KEY FINDINGS:
 
 Population & Urbanization: China and India dominate the global population, with significant urban populations.
+
 Military Might: India, China, and North Korea possess the largest armed forces.
+
 Territorial Extent: Russia, Canada, and the United States boast the largest land areas.
+
 Economic Powerhouse: The United States leads in GDP, followed closely by China.
+
 Unemployment: South Africa, Lesotho, and several African nations face the highest unemployment rates.
+
 Education Access: Nepal, Gabon, and several African countries demonstrate high primary school enrollment rates.
+
 Lingua Franca: English remains the most widely spoken official language globally.
+
 Global Superpowers: Based on GDP, military strength, land area, and population, China and the United States emerge as the world's leading powers.
 
 RECOMMENDATIONS
